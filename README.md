@@ -1,0 +1,1 @@
+主要是配置.vnc/config 和 /etc/tigervnc/vncserver.users 里面的user

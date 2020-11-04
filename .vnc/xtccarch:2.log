@@ -1,0 +1,328 @@
+Using desktop session i3
+
+New 'xtccarch:2 (xtcc)' desktop is xtccarch:2
+
+Starting desktop session i3
+
+
+Xvnc TigerVNC 1.11.0 - built Sep 19 2020 16:42:42
+Copyright (C) 1999-2020 TigerVNC Team and many others (see README.rst)
+See https://www.tigervnc.org for information on TigerVNC.
+Underlying X server release 12008000, The X.Org Foundation
+
+
+Wed Nov  4 21:01:06 2020
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on all interface(s), port 5902
+ vncext:      created VNC server for screen 0
+xinit: XFree86_VT property unexpectedly has 0 items instead of 1
+Running X session wrapper
+Loading profile from /etc/profile
+Loading profile from /home/xtcc/.xprofile
+Loading xinit script /etc/X11/xinit/xinitrc.d/40-libcanberra-gtk-module.sh
+Loading xinit script /etc/X11/xinit/xinitrc.d/50-systemd-user.sh
+X session wrapper complete, running session i3
+/bin/sh: xss-lock: command not found
+/bin/sh: nm-applet: command not found
+warning: output VGA1 not found; ignoring
+(INFO-3729 addon.c:151) polybar: no process found
+feh WARNING: /home/xtcc/图片/壁纸/dota.jpg does not exist - skipping
+feh: No loadable images specified.
+See 'feh --help' or 'man feh' for detailed usage information
+Load Addon Config File:fcitx-pinyin.conf
+(INFO-3729 addon.c:151) Load Addon Config File:fcitx-remote-module.conf
+(INFO-3729 addon.c:151) Load Addon Config File:fcitx-xkb.conf
+(INFO-3729 addon.c:151) Load Addon Config File:fcitx-xim.conf
+[ 11/04/20 21:01:06.369 parse_config_libconfig FATAL ERROR ] Failed to read configuration file "/home/xtcc/.config/picom.conf".
+(INFO-3729 addon.c:151) [ 11/04/20 21:01:06.369 main FATAL ERROR ] Failed to create new session.
+Load Addon Config File:fcitx-imselector.conf
+(INFO-3729 addon.c:151) Load Addon Config File:fcitx-xkbdbus.conf
+(INFO-3729 addon.c:151) Load Addon Config File:fcitx-kimpanel-ui.conf
+(INFO-3729 addon.c:151) Load Addon Config File:fcitx-ipc.conf
+(INFO-3729 addon.c:151) Load Addon Config File:fcitx-fullwidth-char.conf
+(INFO-3729 addon.c:151) Load Addon Config File:fcitx-x11.conf
+(INFO-3729 addon.c:151) Load Addon Config File:fcitx-sunpinyin.conf
+(INFO-3729 addon.c:151) Load Addon Config File:fcitx-punc.conf
+(INFO-3729 addon.c:151) Load Addon Config File:fcitx-autoeng.conf
+(INFO-3729 addon.c:151) Load Addon Config File:fcitx-freedesktop-notify.conf
+(INFO-3729 addon.c:151) Load Addon Config File:fcitx-table.conf
+(INFO-3729 addon.c:151) Load Addon Config File:fcitx-spell.conf
+(INFO-3729 addon.c:151) Load Addon Config File:fcitx-pinyin-enhance.conf
+(INFO-3729 addon.c:151) Load Addon Config File:fcitx-qw.conf
+(INFO-3729 addon.c:151) Load Addon Config File:fcitx-ipcportal.conf
+(INFO-3729 addon.c:151) Load Addon Config File:fcitx-quickphrase.conf
+(INFO-3729 addon.c:151) Load Addon Config File:fcitx-vk.conf
+(INFO-3729 addon.c:151) Load Addon Config File:fcitx-chttrans.conf
+(INFO-3729 addon.c:151) Load Addon Config File:fcitx-cloudpinyin.conf
+(INFO-3729 addon.c:151) Load Addon Config File:fcitx-dbus.conf
+(INFO-3729 addon.c:151) Load Addon Config File:fcitx-unicode.conf
+(INFO-3729 addon.c:151) Load Addon Config File:fcitx-clipboard.conf
+(INFO-3729 addon.c:151) Load Addon Config File:fcitx-googlepinyin.conf
+(INFO-3729 addon.c:151) Load Addon Config File:fcitx-notificationitem.conf
+(INFO-3729 addon.c:151) Load Addon Config File:fcitx-classic-ui.conf
+(INFO-3729 addon.c:151) Load Addon Config File:fcitx-keyboard.conf
+/bin/sh: foxitreader: command not found
+
+** (process:3729): WARNING **: 21:01:06.435: Error loading plugin: libnuspell.so.4: cannot open shared object file: No such file or directory
+
+
+** (process:3729): WARNING **: 21:01:06.435: Error loading plugin: libaspell.so.15: cannot open shared object file: No such file or directory
+
+
+** (process:3729): WARNING **: 21:01:06.443: Error loading plugin: libvoikko.so.1: cannot open shared object file: No such file or directory
+
+
+** (process:3729): WARNING **: 21:01:06.443: Error loading plugin: libhspell.so.0: cannot open shared object file: No such file or directory
+
+(ERROR-3729 ime.c:432) fcitx-keyboard-cm-mmuock already exists
+
+** (mate-volume-control-status-icon:3739): WARNING **: 21:01:06.684: Status icon is already running, exiting
+x[1]=True
+(INFO-3729 ipcportal.c:233) Portal Service exists.
+polybar|error: Disabling module "wlan" (reason: Invalid network interface "wlp4s0")
+[3737:3737:1104/210106.828300:ERROR:chrome_content_client.cc(347)] Failed to locate and load the component updated flash plugin.
+polybar|error: tray: Failed to put tray above 0x0800002 in the stack (XCB_MATCH (8))
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+
+[3870:3870:1104/210106.906634:ERROR:broker_posix.cc(43)] Invalid node channel message
+
+(terminator:3719): VTE-WARNING **: 21:01:07.071: (../vte/src/vtepty.cc:667):bool _vte_pty_spawn_sync(VtePty*, const char*, const char* const*, const char* const*, GSpawnFlags, GSpawnChildSetupFunc, gpointer, GDestroyNotify, GPid*, int, GCancellable*, GError**): runtime check failed: ((spawn_flags & ignored_spawn_flags()) == 0)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|error: Invalid _XEMBED_INFO for window 0x0a00010
+polybar|warn:  background_manager: Failed to get root pixmap, default to black (is there a wallpaper?)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  background_manager: Failed to get root pixmap, default to black (is there a wallpaper?)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  background_manager: Failed to get root pixmap, default to black (is there a wallpaper?)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+
+Wed Nov  4 21:01:08 2020
+ Connections: accepted: 192.168.123.210::43314
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VncAuth(2)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+
+Wed Nov  4 21:01:15 2020
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+ VNCSConnST:  Client pixel format depth 6 (8bpp) rgb222
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+
+Wed Nov  4 21:02:02 2020
+ Connections: accepted: 127.0.0.1::60902
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VeNCrypt(19)
+ SVeNCrypt:   Client requests security type TLSVnc (258)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+
+Wed Nov  4 21:02:04 2020
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+ ComparingUpdateTracker: 1.9008 Mpixels in / 18.992 kpixels out
+ ComparingUpdateTracker: (1:100.084 ratio)
+ VNCSConnST:  FramebufferUpdateRequest 1920x1080 at 0,0 exceeds framebuffer
+              1920x1040
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+
+Wed Nov  4 21:02:05 2020
+ ComparingUpdateTracker: 57.6 kpixels in / 384 pixels out
+ ComparingUpdateTracker: (1:150 ratio)
+ VNCSConnST:  FramebufferUpdateRequest 1920x1040 at 0,0 exceeds framebuffer
+              960x1080
+polybar|warn:  background_manager: Failed to get root pixmap, default to black (is there a wallpaper?)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  background_manager: Failed to get root pixmap, default to black (is there a wallpaper?)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+
+Wed Nov  4 21:02:10 2020
+ ComparingUpdateTracker: 173.82 kpixels in / 0 pixels out
+ ComparingUpdateTracker: (1:inf ratio)
+polybar|warn:  background_manager: Failed to get root pixmap, default to black (is there a wallpaper?)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  background_manager: Failed to get root pixmap, default to black (is there a wallpaper?)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+
+(terminator:3719): VTE-WARNING **: 21:02:11.163: (../vte/src/vtepty.cc:667):bool _vte_pty_spawn_sync(VtePty*, const char*, const char* const*, const char* const*, GSpawnFlags, GSpawnChildSetupFunc, gpointer, GDestroyNotify, GPid*, int, GCancellable*, GError**): runtime check failed: ((spawn_flags & ignored_spawn_flags()) == 0)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+
+Wed Nov  4 21:02:23 2020
+ ComparingUpdateTracker: 13.9819 Mpixels in / 2.05298 Mpixels out
+ ComparingUpdateTracker: (1:6.81056 ratio)
+ VNCSConnST:  FramebufferUpdateRequest 1920x1080 at 0,0 exceeds framebuffer
+              960x1080
+polybar|warn:  background_manager: Failed to get root pixmap, default to black (is there a wallpaper?)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  background_manager: Failed to get root pixmap, default to black (is there a wallpaper?)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+
+Wed Nov  4 21:02:25 2020
+ ComparingUpdateTracker: 2.22912 Mpixels in / 60.108 kpixels out
+ ComparingUpdateTracker: (1:37.0852 ratio)
+polybar|warn:  background_manager: Failed to get root pixmap, default to black (is there a wallpaper?)
+polybar|warn:  background_manager: Failed to get root pixmap, default to black (is there a wallpaper?)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+
+Wed Nov  4 21:02:26 2020
+ VNCSConnST:  FramebufferUpdateRequest 960x1080 at 0,0 exceeds framebuffer
+              640x1080
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+
+Wed Nov  4 21:02:40 2020
+ VNCSConnST:  closing 192.168.123.210::43314: Clean disconnection
+ EncodeManager: Framebuffer updates: 3296
+ EncodeManager:   RRE:
+ EncodeManager:     Solid: 230 rects, 6.93558 Mpixels
+ EncodeManager:            3.81836 KiB (1:1774.51 ratio)
+ EncodeManager:   ZRLE:
+ EncodeManager:     Bitmap RLE: 59 rects, 15.812 kpixels
+ EncodeManager:                 1.58496 KiB (1:10.1787 ratio)
+ EncodeManager:     Indexed RLE: 241 rects, 4.11944 Mpixels
+ EncodeManager:                  25.7061 KiB (1:156.606 ratio)
+ EncodeManager:     Full Colour: 4 rects, 120 pixels
+ EncodeManager:                  153 B (1:1.09804 ratio)
+ EncodeManager:   Total: 534 rects, 11.071 Mpixels
+ EncodeManager:          31.2588 KiB (1:346.07 ratio)
+ Connections: closed: 192.168.123.210::43314
+ ComparingUpdateTracker: 5.28548 Mpixels in / 16.676 kpixels out
+ ComparingUpdateTracker: (1:316.951 ratio)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+
+Wed Nov  4 21:03:05 2020
+ ComparingUpdateTracker: 324.292 kpixels in / 3.168 kpixels out
+ ComparingUpdateTracker: (1:102.365 ratio)
+polybar|warn:  background_manager: Failed to get root pixmap, default to black (is there a wallpaper?)
+polybar|warn:  background_manager: Failed to get root pixmap, default to black (is there a wallpaper?)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+
+Wed Nov  4 21:03:08 2020
+ ComparingUpdateTracker: 2.06202 Mpixels in / 317.76 kpixels out
+ ComparingUpdateTracker: (1:6.48924 ratio)
+polybar|warn:  background_manager: Failed to get root pixmap, default to black (is there a wallpaper?)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  background_manager: Failed to get root pixmap, default to black (is there a wallpaper?)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+
+Wed Nov  4 21:03:09 2020
+ VNCSConnST:  closing 127.0.0.1::60902: Clean disconnection
+ EncodeManager: Framebuffer updates: 427
+ EncodeManager:   Tight:
+ EncodeManager:     Solid: 153 rects, 15.7241 Mpixels
+ EncodeManager:            2.39062 KiB (1:25693.7 ratio)
+ EncodeManager:     Bitmap RLE: 64 rects, 32.911 kpixels
+ EncodeManager:                 1.98438 KiB (1:65.1634 ratio)
+ EncodeManager:     Indexed RLE: 182 rects, 163.377 kpixels
+ EncodeManager:                  33.5732 KiB (1:19.0725 ratio)
+ EncodeManager:   Tight (JPEG):
+ EncodeManager:     Full Colour: 179 rects, 318.888 kpixels
+ EncodeManager:                  446.137 KiB (1:2.7968 ratio)
+ EncodeManager:   Total: 578 rects, 16.2393 Mpixels
+ EncodeManager:          484.085 KiB (1:131.054 ratio)
+ TLS:         TLS session wasn't terminated gracefully
+ TcpSocket:   unable to get peer name for socket
+ Connections: closed: ::0
+ ComparingUpdateTracker: 4.21846 Mpixels in / 1.58086 Mpixels out
+ ComparingUpdateTracker: (1:2.66847 ratio)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+polybar|warn:  Dropping unmatched character 📶 (U+1f4f6)
+xinit: connection to X server lost
+
+waiting for X server to shut down polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+polybar|error: module/i3: Failed to reconnect socket (reason: Failed to read header from socket 0xa: errno 104 (Connection reset by peer))
+
+Wed Nov  4 21:03:20 2020
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:-nan ratio)
+Gdk-Message: 21:03:20.550: terminator: Fatal IO error 11 (Resource temporarily unavailable) on X server :2.
+
+
+xinit: unexpected signal 15
